@@ -11,8 +11,8 @@ const poem = [
   "no protest, no pride.",
   "",
   "The power was never in the going.",
-  "It was in this: my hand, hovering,",
-  "choosing what stays unsaid.",
+  "It was here: my hand, hovering,",
+  "choosing the silence after.",
 ].join("\n");
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
